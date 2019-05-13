@@ -53,9 +53,3 @@ batsman_scored_max_six = unique[np.argsort(counts)][28:]
  
 print(f'The batsman who scores maximum number of sixes are {list(batsman_scored_max_six)}')
  
-
-
-
-
-
-
